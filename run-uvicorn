@@ -1,0 +1,1 @@
+uvicorn --debug --port 8001 server:app

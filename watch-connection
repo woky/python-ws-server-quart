@@ -1,0 +1,1 @@
+watch -n0.5 ss -tpn dport 8001 or sport 8001
